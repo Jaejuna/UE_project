@@ -1,0 +1,2 @@
+# Don't accept this code
+print("Hello World")
